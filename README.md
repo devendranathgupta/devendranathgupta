@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devendranathgupta
 - 👀 I’m interested in Python and Car tech 
 - 🌱 I’m currently learning MECHANICAL ENGINEERING
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on  Video editing
 - 📫 How to reach me by a mail or by a instagram 
 
 <!---
